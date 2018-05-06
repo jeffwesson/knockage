@@ -1,24 +1,24 @@
 {
-  "name": "knockage",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jeffwesson/knockage.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jeffwesson/knockage/issues"
-  },
-  "homepage": "https://github.com/jeffwesson/knockage#readme",
-  "description": "",
-  "devDependencies": {
-    "webpack": "^4.7.0",
-    "webpack-cli": "^2.1.2"
-  }
+	"name": "knockage",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jeffwesson/knockage.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jeffwesson/knockage/issues"
+	},
+	"homepage": "https://github.com/jeffwesson/knockage#readme",
+	"description": "",
+	"devDependencies": {
+		"webpack": "^4.7.0",
+		"webpack-cli": "^2.1.2"
+	}
 }
